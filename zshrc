@@ -110,7 +110,7 @@ alias lla='/opt/homebrew/bin/lsd -lha --group-dirs=first'
 alias ls='/opt/homebrew/bin/lsd --group-dirs=first'
 alias cat='/opt/homebrew/bin/bat'
 alias catn='/bin/cat'
-alias lsn="/bin/ls"
+alias lsn="/bin/ls --color=auto"
 
 #####################################################################
 #                                                                   #
